@@ -1,0 +1,8 @@
+{
+  "name": "ZapShift Delivery Service",
+  "description": "Fast & Reliable Parcel Delivery Management System with Tracking, Rider Management, and Analytics",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
