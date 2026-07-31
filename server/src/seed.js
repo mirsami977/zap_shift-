@@ -9,7 +9,6 @@ import { Review } from "./models/Review.js";
 import { User } from "./models/User.js";
 import { Rider } from "./models/Rider.js";
 import { Parcel } from "./models/Parcel.js";
-
 const here = path.dirname(fileURLToPath(import.meta.url));
 const publicDir = path.resolve(here, "../../public");
 
